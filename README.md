@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/github/btjandra15/btjandra15.svg)](https://wakatime.com/badge/github/btjandra15/btjandra15)
-[![wakatime](https://wakatime.com/badge/github/btjandra15/TwitterClone.svg)](https://wakatime.com/badge/github/btjandra15/TwitterClone)
+
 
 <!--
 **btjandra15/btjandra15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
