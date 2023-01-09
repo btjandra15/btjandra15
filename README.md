@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/a590ada1-1ee0-4bf6-bcd0-2fa3ab44b0d1.svg)](https://wakatime.com/@a590ada1-1ee0-4bf6-bcd0-2fa3ab44b0d1)
 
 # About me
-Computer Engineering Major at <a href="https://www.ccny.cuny.edu/">City College of New York</a>
+Computer Science Major at <a href="https://www.ccny.cuny.edu/">City College of New York</a>
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=btjandra15&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
