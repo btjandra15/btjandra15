@@ -1,16 +1,25 @@
-[![wakatime](https://wakatime.com/badge/user/a590ada1-1ee0-4bf6-bcd0-2fa3ab44b0d1.svg)](https://wakatime.com/@a590ada1-1ee0-4bf6-bcd0-2fa3ab44b0d1)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <div id="badges">
+      <a href="your-linkedin-URL">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="your-youtube-URL">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a href="your-twitter-URL">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a> <br/>
+   </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+</div>
 
-# About me
-Computer Science Major at <a href="https://www.ccny.cuny.edu/">City College of New York</a>
+---
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjandra15&show_icons=true&theme=radical) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=btjandra15&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=btjandra15&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
-## Languages & Tools 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />
-
-
+### :man_technologist: About Me
