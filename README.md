@@ -22,4 +22,25 @@
 
 ---
 
-### :man_technologist: About Me
+### :man_technologist: About Me 
+:computer: Computer Science Major at The City College of New York 
+ - Rising Senior
+ - Interested in Game Design & Full Stack Development
+ 
+---
+
+### :hammer_and_wrench: Languages and Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+
+---
+
+### :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=btjandra15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjandra15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
