@@ -14,6 +14,7 @@
    </div>
   
   <img src="https://komarev.com/ghpvc/?username=btjandra15&style=flat-square&color=blue" alt=""/>
+  <a href="https://wakatime.com/@a590ada1-1ee0-4bf6-bcd0-2fa3ab44b0d1"><img src="https://wakatime.com/badge/user/a590ada1-1ee0-4bf6-bcd0-2fa3ab44b0d1.svg" alt="Total     time coded since Mar 5 2022" /></a>
   
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
