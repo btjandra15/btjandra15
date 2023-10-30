@@ -24,9 +24,9 @@
 ---
 
 ### :man_technologist: About Me 
-:computer: Computer Science Major at The City College of New York 
- - Rising Senior
- - Interested in Game Design & Full Stack Development
+:computer: A senior studying Computer Science at The City College of New York 
+ - Currently intering at the MTA NYCT as a QA Analyst
+ - Skills in Back End Development using MongoDB + node.js
  
 ---
 
