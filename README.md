@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me 
 :computer: A senior studying Computer Science at The City College of New York 
- - Currently intering at the MTA NYCT as a QA Analyst
+ - Currently interning at the MTA NYCT as an ArcGIS Developer
  - Skills in Back End Development using MongoDB + node.js
  
 ---
