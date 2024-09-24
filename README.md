@@ -44,5 +44,5 @@
 ---
 
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=btjandra15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjandra15&size_weight=0.5&count_weight=0.5)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjandra15&show_icons=true&theme=radical) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjandra15&langs_count=8)
