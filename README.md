@@ -45,4 +45,4 @@
 
 ### :fire: My Stats
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjandra15&show_icons=true&theme=radical) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjandra15&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjandra15&langs_count=5)
