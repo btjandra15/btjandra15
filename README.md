@@ -24,9 +24,9 @@
 ---
 
 ### :man_technologist: About Me 
-:computer: A senior studying Computer Science at The City College of New York 
- - Currently interning at the MTA NYCT as an ArcGIS Developer
- - Skills in Back End Development using MongoDB + node.js
+:computer: New Grad from The City College of New York in Computer Science
+ - College Aide @ MTA NYCT
+ - Experience in Back-end development using NextJS 
  
 ---
 
