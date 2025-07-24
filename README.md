@@ -24,9 +24,9 @@
 ---
 
 ### :man_technologist: About Me 
-:computer: New Grad from The City College of New York in Computer Science
- - Softwae Engineer @ MTA NYCT
- - Experience in Back-end development using NextJS 
+:computer: Software Engineer at the MTA NYCT
+ - Experience in Mobile App Development using React Native
+ - Experience in Backend Development using NextJS 
  
 ---
 
