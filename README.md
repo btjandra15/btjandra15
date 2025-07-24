@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me 
 :computer: New Grad from The City College of New York in Computer Science
- - GIS Analyst @ MTA NYCT
+ - Softwae Engineer @ MTA NYCT
  - Experience in Back-end development using NextJS 
  
 ---
