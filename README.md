@@ -44,4 +44,4 @@
 ---
 
 ### :fire: My Stats
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjandra15&show_icons=true&theme=radical) <br/>
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjandra15&commits_year=2025&theme=radical&show_icons=true)](https://github.com/btjandra15/github-readme-stats) <br/>
